@@ -23,7 +23,7 @@
     "primus": "^7.2.3",
     "primus-redis-rooms": "^0.3.2",
     "rand-token": "^0.4.0",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "rolling-rate-limiter": "^0.1.11",
     "ws": "^6.1.0"
   },
